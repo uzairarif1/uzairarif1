@@ -15,7 +15,7 @@
 
 ### LCMS (Law Chamber Management System) 
 
-Law Chamber Management System (LCMS) is a web-based software that allows Law Chambers currently working in Pakistan to manage their workflow smoothly. The software also aims to provide the availability of legal documents, ability to consult documents during case preparation. It allows senior advocates to manage employees, clients, discuss legal documents using the system, and it also provides flexibility by performing a range of tasks that would otherwise be done by several systems. The system also enables lawyers to search for their relevant topic (previous cases or legal judgments) using smart case study features.
+Law Chamber Management System (LCMS) is a web-based software that allows Law Chambers currently working in Pakistan to manage their workflow smoothly. The software also aims to provide the availability of legal documents and ability to consult documents during case preparation. It allows senior advocates to manage employees, clients, discuss legal documents using the system.
 
 <br>
 
