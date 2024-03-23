@@ -15,13 +15,13 @@
 
 ### LCMS (Law Chamber Management System) 
 
-Law Chamber Management System (LCMS) is a web-based software that allows Law Chambers currently working in Pakistan to manage their workflow smoothly. The software also aims to provide the availability of legal documents and ability to consult documents during case preparation. It allows senior advocates to manage employees, clients, discuss legal documents using the system.
+Law Chamber Management System (LCMS) is a web-based software that allows Law Chambers to manage their workflow smoothly. It allows admin to manage employees, clients, discuss legal documents using the system.
 
 <br>
 
 ## Future Goals
 
-My aim is to become a full-stack developer, with a focus on the MERN (MongoDB, Express.js, React.js, Node.js) stack. I aspire to master both front-end and back-end technologies, allowing me to build robust and scalable web applications. By gaining expertise in MERN, I aim to contribute to cutting-edge projects, solve complex problems, and create impactful software solutions that make a difference.
+My aim is to become a full-stack developer, with a focus on Python. I aspire to master both front-end and back-end technologies, allowing me to build robust and scalable web applications. By gaining expertise in Python, I aim to contribute to cutting-edge projects, solve complex problems, and create impactful software solutions that make a difference.
 
 <br>
 <!-- Get in Touch -->
